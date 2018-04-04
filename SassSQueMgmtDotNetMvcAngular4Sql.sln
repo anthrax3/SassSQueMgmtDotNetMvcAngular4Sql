@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SassSQueMgmtDotNetMvcAngular4Sql", "SassSQueMgmtDotNetMvcAngular4Sql\SassSQueMgmtDotNetMvcAngular4Sql.csproj", "{47E4D395-0609-4242-9CE5-69CB79FC3D1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SassSQueMgmtDotNetMvcAngular4Sql.Tests", "SassSQueMgmtDotNetMvcAngular4Sql.Tests\SassSQueMgmtDotNetMvcAngular4Sql.Tests.csproj", "{F9F1D4DD-C8AF-4DD2-B9ED-CD673E57D139}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47E4D395-0609-4242-9CE5-69CB79FC3D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E4D395-0609-4242-9CE5-69CB79FC3D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E4D395-0609-4242-9CE5-69CB79FC3D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E4D395-0609-4242-9CE5-69CB79FC3D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9F1D4DD-C8AF-4DD2-B9ED-CD673E57D139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9F1D4DD-C8AF-4DD2-B9ED-CD673E57D139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9F1D4DD-C8AF-4DD2-B9ED-CD673E57D139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9F1D4DD-C8AF-4DD2-B9ED-CD673E57D139}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCD785BC-D625-47DB-BB0E-FDC80DA85D2D}
+	EndGlobalSection
+EndGlobal
